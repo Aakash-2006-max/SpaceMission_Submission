@@ -1,0 +1,3 @@
+First I will research What is backend and Why we use backend in platform like google, chatgpt, ect
+Second I will learn coding language that we use to code in backend
+And at last, I will practice backend regularly 
